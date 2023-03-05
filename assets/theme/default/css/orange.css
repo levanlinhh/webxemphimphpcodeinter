@@ -1,0 +1,78 @@
+.btn-create-album,.btn-view-more{border-color:#ff8a00;background:#ff8a00}
+#login-box .login-toggle{background:#ff8a00}
+.btn-login{background:#ff8a00}
+#primary-bar .social-icon ul li{border-bottom:2px solid #ff8a00}
+#primary-bar .social-icon ul li a:hover{color:#ff8a00}
+#primary-bar .login .svg path{fill:#ff8a00}
+#primary-bar .login .media .media-left i.fa{color:#ff8a00}
+.top-shadow span a:hover{color:#ff8a00}
+.svg:hover path{fill:#ff8a00}
+.movie-heading span{font-family:Roboto;color:#ff8a00;border-bottom:1px solid #ff8a00}
+.movie-title a:hover{color:#ff8a00}
+.movie-title p i.fa:hover{color:#ff8a00}
+.hd-vid-auth-name a:hover,.post-video-aut-name a:hover{color:#ff8a00}
+p.hd-movie-desc a:hover,p.blog-movie-desc a:hover{color:#ff8a00}
+.sidebar h1 a:hover,.latest-post h1 a:hover{color:#ff8a00}
+h1.sidebar-title{background:#ff8a00}
+.tags ul li a:hover{background:#ff8a00}
+.footer-about .bottom-social li a:hover{background:#ff8a00}
+.category-list li a:hover{color:#ff8a00}
+.post-category-list li a:hover{color:#ff8a00}
+.btn-send{background:#ff8a00}
+.formOverlay:before{color:#ff8a00}
+.video-info-bar ul li a:hover{color:#ff8a00}
+.input-top-line{background:#ff8a00}
+.input-bottom-line{background:#ff8a00}
+.btn-snd{background:#ff8a00}
+.breadcrumb li.active{color:#ff8a00}
+.video-info-bar .info-ul .sharing-drop:hover button:before{color:#ff8a00}
+.btn-create-album:hover,.btn-create-album:active,.btn-create-album:focus,.btn-view-more:hover,.btn-view-more:active,.btn-view-more:focus{background-color:#499c4c;border-color:#499c4c}
+.btn-login:hover{background:#499c4c}
+.btn-send:hover,.btn-send:active,.btn-send:focus{background:#499c4c}
+#cssmenu > ul > li:hover > a,#cssmenu > ul > li.active > a{color:#ff8a00}
+#cssmenu ul ul li:hover > a,#cssmenu ul ul li a:hover{background-color:#ff8a00;color:#fff}
+#cssmenu > ul > li.has-sub:hover > a:after{color:#ff8a00}
+#cssmenu > ul > li.has-sub:hover > a:before{color:#ff8a00}
+h1.sidebar-title{border-bottom:3px solid #44a247}
+.login-dropdown{border-top:solid 5px #ff8a00;border-left:solid 1px #ff8a00;border-right:solid 1px #ff8a00;border-bottom:solid 2px #ff8a00}
+.two-column-navbar{border-bottom-left-radius:4px;border-bottom-right-radius:4px}
+.three-column-navbar{border-bottom-left-radius:4px;border-bottom-right-radius:4px}
+.sidebar .sb-title{background:#ff8a00}
+.menu-item li a:hover{color:#ff9601}
+.pagination li a:hover,.pagination li a:active,.pagination li a:focus,.pagination li.active a,.pagination li.active a:hover{color:#ff8a00}
+.btn-server{color:#fff;background-color:#f2a900;border-color:#f2a900;padding:3px 7px}
+.btn-server.focus,.btn-server:focus{color:#fff;background-color:#429044;border-color:#429044}
+.btn-server:hover{color:#fff;background-color:#ff8a00;border-color:#ff8a00}
+.btn-success{color:#fff;background-color:#f2a900;border-color:#f2a900;padding:7px}
+.btn-success.focus,.btn-success:focus{color:#fff;background-color:#429044;border-color:#429044}
+.btn-success:hover{color:#fff;background-color:#ff8a00;border-color:#ff8a00}
+.btn-success.active,.btn-success:active,.open>.dropdown-toggle.btn-success{color:#fff;background-color:#429044;border-color:#429044}
+.btn-success.active.focus,.btn-success.active:focus,.btn-success.active:hover,.btn-success:active.focus,.btn-success:active:focus,.btn-success:active:hover,.open>.dropdown-toggle.btn-success.focus,.open>.dropdown-toggle.btn-success:focus,.open>.dropdown-toggle.btn-success:hover{color:#fff;background-color:#429044;border-color:#429044}
+.btn-success.active,.btn-success:active,.open>.dropdown-toggle.btn-success{background-image:none}
+.btn-success.disabled.focus,.btn-success.disabled:focus,.btn-success.disabled:hover,.btn-success[disabled].focus,.btn-success[disabled]:focus,.btn-success[disabled]:hover,fieldset[disabled] .btn-success.focus,fieldset[disabled] .btn-success:focus,fieldset[disabled] .btn-success:hover{background-color:#ff8a00;border-color:#3d7b3f}
+.btn-success .badge{color:#ff8a00;background-color:#fff}
+.pagination-hvr{background:#ff8a00}
+.pagination li:hover .pagination-hvr,.pagination li.active .pagination-hvr{background:#ff8a00}
+#primary-bar .social-icon ul li{border-bottom:2px solid #ff8a00}
+.search.open{border:2px solid #ff8a00}
+.panel-primary > .panel-heading{background-color:#ff8a00;border-color:#ff8a00}
+.movies-list-wrap{display:block;overflow:hidden}
+.movies-list-wrap .ml-title{display:block;margin-bottom:20px;overflow:hidden}
+.movies-list-wrap .ml-title span.title{font-size:20px;font-weight:400;display:inline-block;height:40px;line-height:40px;color:#fff;margin-right:20px;position:relative}
+.movies-list-wrap .ml-title span.title:before{content:"";width:50px;height:2px;background:#ff8a00;display:inline-block;position:absolute;bottom:0;left:0}
+.movies-list-wrap .ml-title span.title-cate{border:none;font-size:22px;font-weight:400}
+.movies-list-wrap .ml-title span.title-cate:before{display:none}
+.movies-list-wrap .ml-title span i{font-size:14px}
+.movies-list-wrap .ml-title .nav-tabs{display:inline-block;margin-left:0;margin-top:8px;border-bottom:none}
+.movies-list-wrap .ml-title .nav-tabs li.active a{border-radius:0;background:#ff8a00!important;color:#fff}
+.movies-list-wrap .ml-title .nav-tabs li a{font-family:Arial,Tahoma;font-size:13px;font-weight:normal;color:#fff;border:none;padding:3px 5px;margin-left:8px;text-align:center;background:#504d49;border-radius:0;}
+.movies-list-wrap .ml-title .nav-tabs li a:hover{background:#ff8a00;color:#fff;}
+.owl-carousel .owl-next,.owl-carousel .owl-prev{background-color:#ff8a00}
+.movie-heading span:before{background-color:#ff8a00}
+.navbar-default .navbar-nav>li.dropdown>a:focus,.navbar-default .navbar-nav>li.dropdown>a:hover,.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>li>a:focus,.navbar-default .navbar-nav>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-menu>li>a:hover,.sidebar .sidebar-menu ul li:hover,.sidebar .sidebar-menu ul li:hover a,.sidebar .sidebar-menu ul li.active a{color:#ff9601}
+.dropdown-menu > li > a:hover{color:#ff8a00!important}
+.scrollToTop{background:#ff8a00}
+.ui-widget-header{background-color:#ff8a00!important}
+.modern-Checkbox label{background-color:#ff8a00}
+.popover.bottom .arrow:after{border-bottom-color:#4da999!important}
+.popover-title{background:#ff8a00!important;border-bottom-color:#4da999!important}

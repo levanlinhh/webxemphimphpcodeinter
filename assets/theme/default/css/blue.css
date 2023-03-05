@@ -1,0 +1,76 @@
+.btn-create-album,.btn-view-more{border-color:#08C;background:#08C}
+#login-box .login-toggle{background:#08C}
+.btn-login{background:#08C}
+#primary-bar .social-icon ul li{border-bottom:2px solid #08C}
+#primary-bar .social-icon ul li a:hover{color:#08C}
+#primary-bar .login .svg path{fill:#08C}
+#primary-bar .login .media .media-left i.fa{color:#08C}
+.top-shadow span a:hover{color:#08C}
+.svg:hover path{fill:#08C}
+.movie-title a:hover{color:#08C}
+.movie-title p i.fa:hover{color:#08C}
+.hd-vid-auth-name a:hover,.post-video-aut-name a:hover{color:#08C}
+p.hd-movie-desc a:hover,p.blog-movie-desc a:hover{color:#08C}
+.sidebar h1 a:hover,.latest-post h1 a:hover{color:#08C}
+h1.sidebar-title{background:#08C}
+.tags ul li a:hover{background:#08C}
+.footer-about .bottom-social li a:hover{background:#08C}
+.category-list li a:hover{color:#08C}
+.post-category-list li a:hover{color:#08C}
+.btn-send{background:#08C}
+.formOverlay:before{color:#08C}
+.video-info-bar ul li a:hover{color:#08C}
+.input-top-line{background:#08C}
+.input-bottom-line{background:#08C}
+.btn-snd{background:#08C}
+.breadcrumb li.active{color:#08C}
+.video-info-bar .info-ul .sharing-drop:hover button:before{color:#08C}
+.btn-create-album:hover,.btn-create-album:active,.btn-create-album:focus,.btn-view-more:hover,.btn-view-more:active,.btn-view-more:focus{background-color:#499c4c;border-color:#499c4c}
+.btn-login:hover{background:#499c4c}
+.btn-send:hover,.btn-send:active,.btn-send:focus{background:#499c4c}
+#cssmenu > ul > li:hover > a,#cssmenu > ul > li.active > a{color:#08C}
+#cssmenu ul ul li:hover > a,#cssmenu ul ul li a:hover{background-color:#08C;color:#fff}
+#cssmenu > ul > li.has-sub:hover > a:after{color:#08C}
+#cssmenu > ul > li.has-sub:hover > a:before{color:#08C}
+h1.sidebar-title{border-bottom:3px solid #055b86}
+.login-dropdown{border-top:solid 5px #08C;border-left:solid 1px #08C;border-right:solid 1px #08C;border-bottom:solid 2px #08C}
+.two-column-navbar{border-top:solid 5px #08C;border-left:solid 1px #08C;border-right:solid 1px #08C;border-bottom:solid 2px #08C;border-bottom-left-radius:4px;border-bottom-right-radius:4px}
+.three-column-navbar{border-bottom-left-radius:4px;border-bottom-right-radius:4px}
+.sidebar .sb-title{background:#08C}
+.menu-item li a:hover{color:#08C}
+.pagination li a:hover,.pagination li a:active,.pagination li a:focus,.pagination li.active a,.pagination li.active a:hover{color:#08C}
+.btn-success{color:#fff;background-color:#08C;border-color:#08C}
+.btn-success.focus,.btn-success:focus{color:#fff;background-color:#0a6ea0;border-color:#337ab7}
+.btn-success:hover{color:#fff;background-color:#0a6ea0;border-color:#337ab7}
+.btn-success.active,.btn-success:active,.open > .dropdown-toggle.btn-success{color:#fff;background-color:#0a6ea0;border-color:#337ab7}
+.btn-success.active.focus,.btn-success.active:focus,.btn-success.active:hover,.btn-success:active.focus,.btn-success:active:focus,.btn-success:active:hover,.open > .dropdown-toggle.btn-success.focus,.open > .dropdown-toggle.btn-success:focus,.open > .dropdown-toggle.btn-success:hover{color:#fff;background-color:#0a6ea0;border-color:#337ab7}
+.btn-success.active,.btn-success:active,.open > .dropdown-toggle.btn-success{background-image:none}
+.btn-success.disabled.focus,.btn-success.disabled:focus,.btn-success.disabled:hover,.btn-success[disabled].focus,.btn-success[disabled]:focus,.btn-success[disabled]:hover,fieldset[disabled] .btn-success.focus,fieldset[disabled] .btn-success:focus,fieldset[disabled] .btn-success:hover{background-color:#4da950;border-color:#3d7b3f}
+.btn-success .badge{color:#4da950;background-color:#fff}
+.pagination-hvr{background:#08C}
+.pagination li:hover .pagination-hvr,.pagination li.active .pagination-hvr{background:#08C}
+#primary-bar .social-icon ul li{border-bottom:2px solid #08C}
+.search.open{border:2px solid #08C}
+.panel-primary > .panel-heading{background-color:#08C;border-color:#337ab7}
+.movies-list-wrap{display:block;overflow:hidden;margin:0 0 40px}
+.movies-list-wrap .ml-title{display:block;margin-bottom:5px;overflow:hidden}
+.movies-list-wrap .ml-title span.title{font-size:18px;font-weight:400;display:inline-block;height:40px;line-height:40px;color:#fff;margin-right:20px;position:relative}
+.movies-list-wrap .ml-title span.title:before{content:"";width:50px;height:2px;background:#08c;display:inline-block;position:absolute;bottom:0;left:0}
+.movies-list-wrap .ml-title span.title-cate{border:none;font-size:22px;font-weight:400}
+.movies-list-wrap .ml-title span.title-cate:before{display:none}
+.movies-list-wrap .ml-title span i{font-size:14px}
+.movies-list-wrap .ml-title .nav-tabs{display:inline-block;margin-left:0;margin-top:8px;border-bottom:none}
+.movies-list-wrap .ml-title .nav-tabs li.active a{border-radius:2px;background:#08c!important;color:#fff}
+.movies-list-wrap .ml-title .nav-tabs li a{color:#08c;border:none;height:32px;line-height:32px;background:none!important;padding:0 15px;text-align:center;min-width:60px;text-transform:capitalize}
+.owl-carousel .owl-next,.owl-carousel .owl-prev{background-color:#08C}
+.movie-heading span:before{background-color:#08C}
+.navbar-default .navbar-nav>li.dropdown>a:focus,.navbar-default .navbar-nav>li.dropdown>a:hover,.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>li>a:focus,.navbar-default .navbar-nav>li>a:hover,.dropdown-menu>li>a:focus,.dropdown-menu>li>a:hover,.sidebar .sidebar-menu ul li:hover,.sidebar .sidebar-menu ul li:hover a,.sidebar .sidebar-menu ul li.active a{color:#08C}
+.dropdown-menu > li > a:hover{color:#08C!important}
+.scrollToTop{background:#08C}
+::-webkit-scrollbar{width:6px;background-color:#08D}
+::-webkit-scrollbar-button{background-color:#08C}
+::-webkit-scrollbar-thumb{background-color:#08C}
+.ui-widget-header{background-color:#08C!important}
+.modern-Checkbox label{background-color:#08C}
+.popover.bottom .arrow:after{border-bottom-color:#089!important}
+.popover-title{background-color:#08C!important;border-bottom-color:#089!important}

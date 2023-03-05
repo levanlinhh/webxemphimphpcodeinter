@@ -1,0 +1,18 @@
+.row{padding:10px}
+.btn{text-transform:uppercase}
+.btn-white{color:#FFF;background-color:#195066;border-color:#195066}
+.app-sidebar{padding-top:51px}
+.card-title{color:#fff;padding:0;font-size:16px}
+.panel-title{color:#fff;padding:10px;color:#fff;text-transform:uppercase;font-size:18px;font-weight:600;background-color:#195066}
+button.close{padding:10px;color:#fff}
+.parsley-required{color:red;list-style:none;margin-left:-35px}
+.treeview-item{padding:5px 5px 5px 12px}
+.treeview-item.active,.treeview-item:hover,.treeview-item:focus{background:#195066}
+.header-line{background-color:#3e79f7;height:1px;width:100%;content:'';display:block}
+.bootstrap-tagsinput .badge{background-color:#195066;border:1px solid #035d54}
+.swal-overlay{background-color:rgba(43,165,137,0.45)}
+label.control-label{color:#fff}
+.app-sidebar ul.app-menu{font-size:15px}
+.bg-gray-50{background-color:#f2f2f2!important}
+.description{overflow:hidden;text-overflow:ellipsis;-webkit-line-clamp:2;display:-webkit-box;-webkit-box-orient:vertical}
+span.select2.select2-container.select2-container--default.select2-container--below,span.select2.select2-container.select2-container--default.select2-container--focus,span.select2.select2-container.select2-container--default.select2-container--open,span.select2.select2-container.select2-container--default{width:100%!important}
